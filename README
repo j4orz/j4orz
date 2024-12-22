@@ -1,0 +1,7 @@
+The statistical learning approach to artificial intelligence challenges all of the assumptions made fifty years ago in the design of computing technology. These three talks give an overview of the golden age we're about to enter.
+
+- Building the Software 2.0 Stack (Karpathy)
+- The Golden Age of Compilers (Lattner)
+- A New Golden Age for Computer Architecture (Hennessy, Patterson)
+
+Neural networks on PyTorch currently run ~100kHz. This is bad. I help fix this with deep learning compilers.
